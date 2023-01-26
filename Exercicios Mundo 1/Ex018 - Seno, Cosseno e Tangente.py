@@ -1,0 +1,12 @@
+print('---- Seja bem vindo! ----')
+nome = input('Digite seu nome: ')
+print(f'Seja bem vindo {nome}!')
+from math import radians, sin, cos, tan
+angulo = float(input(f'{nome} Digite o valor do angulo: '))
+seno = sin(radians(angulo))
+print(f'O angulo de {angulo} tem o SENO de: {seno:.2f}')
+cosseno = cos(radians(angulo))
+print(f'O angulo de {angulo} tem o COSSENO de: {cosseno:.2f}')
+tangente = tan(radians(angulo))
+print(f'O angulo de {angulo} tem a TANGENTE de: {tangente:.2f}')
+print('Obrigado por utilizar nossa ferramenta, espero ver você em breve! <3')
