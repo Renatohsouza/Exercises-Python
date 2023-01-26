@@ -14,15 +14,15 @@
 
 ## Challenges World 1:
 
-[World One](https://github.com/Renatohsouza)<br />
+[Exercises World One](https://github.com/Renatohsouza/Exercises-Python/tree/master/Exercicios%20Mundo%201)<br />
 
 ## Challenges World 2:
 
-[World Two](https://github.com/Renatohsouza)<br />
+[Exercises World Two](https://github.com/Renatohsouza/Exercises-Python/tree/master/Exercicios%20Mundo%202)<br />
 
 ## Challenges World 3:
 
-[World Tree](https://github.com/Renatohsouza)<br />
+[Coming Soon ⏰]()<br />
 
 ## Technologies Used:
 
