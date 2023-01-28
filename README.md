@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/118791991/214748282-e80e102c-a6cd-4f3c-b971-b675e3f79e26.png" width="150" height="180">
 </div>
 
-## Repository created in order to demonstrate the exercises practiced in Python. Through the Video Course classes.
+## Repository created in order to demonstrate the exercises practiced in Python. Through the Video Course classes. 👨‍🏫
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rnt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
