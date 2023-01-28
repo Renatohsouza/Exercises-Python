@@ -22,7 +22,7 @@
 
 ## Challenges World 3:
 
-[Exercises World Tree](https://github.com/Renatohsouza/Exercises-Python/tree/master/Exercicios%20Mundo%203)<br />
+[Exercises World Three](https://github.com/Renatohsouza/Exercises-Python/tree/master/Exercicios%20Mundo%203)<br />
 
 ## Technologies Used:
 
